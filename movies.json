@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Breaking Bad",
+    "rating": "9.5",
+    "released_date": "2013-10-11"
+  },
+  {
+    "id": 2,
+    "name": "Dark",
+    "rating": "8.5",
+    "released_date": "2015-01-11"
+  },
+  {
+    "id": 3,
+    "name": "El Camino",
+    "rating": "9.0",
+    "released_date": "2016-01-12"
+  },
+  {
+    "id": 4,
+    "name": "Breaking Dawn",
+    "rating": "8.0",
+    "released_date": "2015-09-11"
+  },
+  {
+    "id": 5,
+    "name": "Hunger Game",
+    "rating": "8.3",
+    "released_date": "2016-10-11"
+  },
+  {
+    "id": 6,
+    "name": "Maze Runner",
+    "rating": "7.8",
+    "released_date": "2018-01-30"
+  },
+  {
+    "id": 7,
+    "name": "Unstoppable",
+    "rating": "6.5",
+    "released_date": "2015-05-11"
+  },
+  {
+    "id": 8,
+    "name": "Avengers",
+    "rating": "9.5",
+    "released_date": "2016-07-11"
+  },
+  {
+    "id": 9,
+    "name": "Iron Man",
+    "rating": "9.5",
+    "released_date": "2010-04-11"
+  },
+  {
+    "id": 10,
+    "name": "Moana",
+    "rating": "9.5",
+    "released_date": "1019-03-11"
+  },
+  {
+    "id": 11,
+    "name": "Ninja Turtle",
+    "rating": "9.5",
+    "released_date": "1015-02-11"
+  },
+  {
+    "id": 12,
+    "name": "Kantara",
+    "rating": "9.5",
+    "released_date": "2022-10-11"
+  },
+  {
+    "id": 13,
+    "name": "Jai Bhim",
+    "rating": "9.5",
+    "released_date": "2022-09-11"
+  },
+  {
+    "id": 14,
+    "name": "Talwar",
+    "rating": "9.5",
+    "released_date": "2019-11-11"
+  },
+  {
+    "id": 15,
+    "name": "Hostage",
+    "rating": "9.5",
+    "released_date": "2020-15-11"
+  },
+  {
+    "id": 16,
+    "name": "Piku",
+    "rating": "9.5",
+    "released_date": "2017-12-11"
+  },
+  {
+    "id": 17,
+    "name": "Sahjahan Regency",
+    "rating": "9.5",
+    "released_date": "2019-07-11"
+  },
+  {
+    "id": 18,
+    "name": "The Eken",
+    "rating": "9.5",
+    "released_date": "2021-09-11"
+  },
+  {
+    "id": 19,
+    "name": "Meghe Dhaka Tara",
+    "rating": "9.5",
+    "released_date": "2016-08-11"
+  },
+  {
+    "id": 20,
+    "name": "Hemlok Society",
+    "rating": "9.5",
+    "released_date": "2014-09-11"
+  }
+]
